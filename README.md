@@ -1,2 +1,3 @@
 # clone-tabnews
-repo do curso.dev. vamo nessa 
+
+repo do curso.dev. vamo nessa
